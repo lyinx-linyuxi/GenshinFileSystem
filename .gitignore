@@ -1,0 +1,18 @@
+# for CMake
+
+build
+*.o
+*.exe
+
+# for vsc
+
+.vscode
+
+# for zip
+
+*.zip
+*.txt
+
+# makefile is not useful for this project
+
+Makefile 
